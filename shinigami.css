@@ -1,0 +1,20 @@
+body {
+  font-family: system-ui;
+  background: #3b3b3b;
+  color: white;
+}
+.header {
+  background: #e8e8e8;
+  color: #3b3b3b;
+  width: -webkit-fill-available;
+  top: 0;
+  height: 10em;
+}
+.logo {
+  max-width: 800px;
+  margin: auto;
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+          
