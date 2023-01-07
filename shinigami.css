@@ -38,3 +38,15 @@ body {
     text-align: center;
     line-height: 1em;
 }
+.collapsible {
+    background: center;
+    border: white 2px solid;
+    padding: 5px;
+    color: white;
+    margin: auto;
+    width: max-content;
+    font-weight: 700;
+}
+.collapsible:hover {
+  background-color: #ccc;
+}
