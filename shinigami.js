@@ -10,7 +10,7 @@ function toggleMe(a) {
    }
    else {
       e.style.display = "none";
-      toggleIcon.innerHTML = '---';
+      toggleIcon.innerHTML = '&nbsp;';
    }
    return true;
 }
