@@ -38,26 +38,40 @@ body {
     text-align: center;
     line-height: 1em;
 }
-.collapsible {
-    background: center;
-    border: white 2px solid;
-    padding: 5px;
-    color: white;
-    margin: auto;
-    width: max-content;
-    font-weight: 700;
-}
-.collapsible:active {
-  background-color: white;
-  color: black;
+.question {
+  vertical-align: top;
+  height: auto !important;
 }
 
-.collapsible:hover {
-  background-color: #878787;
-  color: white;
+.answer {
+  display:none;
 }
-.content1 {
-   overflow: hidden;
+
+.show {
+  display: none;
+    text-decoration: none;
+}
+
+.hide:target + .show {
+  display: inline;
+  text-decoration: none;
+}
+
+.hide:target {
+  display: none;
+  text-decoration: none;
+}
+
+.hide:target ~ .answer {
+  display:inline;
+  text-decoration: none;
+
+}
+
+@media print {
+  .hide, .show {
+    display: none;
+  }
 }
 .slide-left {
     -webkit-animation: slide-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
