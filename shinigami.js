@@ -6,11 +6,11 @@ function toggleMe(a) {
 
    if(e.style.display == "none") {
       e.style.display = "block";
-      toggleIcon.innerHTML = '-';
+      toggleIcon.innerHTML = '[ПОДТВЕРЖДЕНО - ДОБРО ПОЖАЛОВАТЬ]';
    }
    else {
       e.style.display = "none";
-      toggleIcon.innerHTML = '+';
+      toggleIcon.innerHTML = '&nbsp;';
    }
    return true;
 }
