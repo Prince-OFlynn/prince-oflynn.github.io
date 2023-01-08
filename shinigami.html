@@ -15,6 +15,15 @@ Online HTML, CSS and JavaScript editor to run code online.
 <body>
   <div class='header'><div class='logo'><p>Отдел Внутренней Безопасности</p></div></div>
 <div style='max-width: 800px;margin: auto;padding: 0.5em;'>
+  
+<p>
+  <input onclick="return toggleMe('para1')" style="font-size:18px; color:#008080;" type="text" value="LINK TO EXPAND" />
+  <span id="toggle-icon">+</span>
+</p>
+<p id="para1" style="display: none;">
+   text text text text
+</p>
+
   <center><button type="button" class="collapsible">Подтвердить Уровень Допуска</button>
   </center>
   <div class="slide-left">
@@ -23,34 +32,6 @@ Online HTML, CSS and JavaScript editor to run code online.
    <h4><b>МЕСТО ПРОИШЕСТВИЯ:</b> ЗОНА 78N</h4>
   </div>
 </div>
-
-
-<script type="text/javascript">
-function toggleMe(a) {
-   var e = document.getElementById(a);
-   var toggleIcon = document.getElementById('toggle-icon');
-   if(!e) return true;
-
-   if(e.style.display == "none") {
-      e.style.display = "block";
-      toggleIcon.innerHTML = '-';
-   }
-   else {
-      e.style.display = "none";
-      toggleIcon.innerHTML = '+';
-   }
-   return true;
-}
-</script>
-<p>
-  <input onclick="return toggleMe('para1')" style="font-size:18px; color:#008080;" type="text" value="LINK TO EXPAND" />
-  <span id="toggle-icon">+</span>
-</p>
-<p id="para1" style="display: none;">
-   <strong><em>text text text text</em></strong>
-</p>
-
-
   <script src="shinigami.js"></script>
 </body>
 
