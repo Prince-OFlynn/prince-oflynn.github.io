@@ -94,3 +94,10 @@ body {
 .button-1 {
     font-family: monospace;
 }
+.warning {
+    font-size: x-large;
+    background: #ff6d00;
+    width: fit-content;
+    font-weight: bold;
+    padding: 0em 2em;
+}
