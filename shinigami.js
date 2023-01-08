@@ -1,15 +1,13 @@
 console.log("from script file");
-var coll = document.getElementsByClassName("collapsible");
-var i;
+function toggleMe(a) {
+   var e = document.getElementByClassName("collapsible");
+   if(!e) return true;
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "none";
-    }
-  });
+   if(e.style.display == "none") {
+      e.style.display = "block"
+   }
+   else {
+      e.style.display = "none"
+   }
+   return true;
 }
