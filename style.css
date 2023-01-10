@@ -6,10 +6,24 @@ body {
 }
 .text-header {
     color: white;
-    font-size: 350%;
-    font-weight: 400;
+    font-size: 250%;
+    font-variant-caps: petite-caps;
+    font-weight: 600;
     text-shadow: 0 0 20px #00ff3c;
     filter: drop-shadow(0px 4px 2px black);
+}
+.header-flex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+}
+.text-header1 {
+    font-family: monospace;
+    font-weight: bold;
+    color: #f0f0c0;
+    font-size: large;
+    text-shadow: 1px 1px 3px black;
 }
 .logo-header {
     width: 100px;
