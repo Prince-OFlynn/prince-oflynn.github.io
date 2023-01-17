@@ -104,3 +104,8 @@ body {
    color: white;
    background: white;
 }
+h1 {
+   border-bottom: 2px solid grey;
+   margin: 0 0 0.6em;
+   font-weight: normal;
+}
