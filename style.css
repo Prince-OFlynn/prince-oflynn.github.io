@@ -48,4 +48,5 @@ h1 {
     padding: 0 0 0.25em;
     margin: 0 0 0.6em;
     font-weight: normal;
+    border-bottom: 1px solid #bbb;
 }
