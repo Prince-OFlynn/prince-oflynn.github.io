@@ -1,8 +1,12 @@
 body {
   margin: auto;
-  background: #191919;
   color: white;
   font-family: system-ui;
+  background-image: url(https://hrp.funclub.pro/wp-content/uploads/2022/11/Wallpaper-Scp-horror-4500x2400-WallpaperEye-1461817-.jpg);
+  background-position: left top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .document {
