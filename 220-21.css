@@ -8,12 +8,28 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+a {
+  color: cadetblue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: cadetblue;
+}
+a:active {
+  color: #9afcff;
+}
 .license {
   background: #353434;
   text-align: center;
   max-width: 1200px;
   margin: 0 auto 3em auto;
   padding: 3.33em 0;
+}
+.notice {
+  border-bottom: 2px solid grey;
+  border-top: 2px solid grey;
+  padding: 5px 0;
 }
 .document {
  background: #272525;
