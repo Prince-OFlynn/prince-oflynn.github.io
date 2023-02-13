@@ -27,9 +27,14 @@ a:active {
   padding: 3.33em 0;
 }
 .notice {
-  border-bottom: 2px solid grey;
-  border-top: 2px solid grey;
-  padding: 5px 0;
+    border-bottom: 2px solid #525151;
+    border-top: 2px solid #525151;
+    padding: 1.2em 0;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 .document {
  background: #272525;
