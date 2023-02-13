@@ -1,0 +1,15 @@
+body {
+  margin: auto;
+  background: #191919;
+  color: white;
+  font-family: system-ui;
+}
+document {
+ background: #272525;
+ max-width: 1200px;
+}
+header {
+  max-width: 1200px;
+  height: 10em;
+}
+          
