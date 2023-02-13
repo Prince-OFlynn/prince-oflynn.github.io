@@ -4,11 +4,13 @@ body {
   color: white;
   font-family: system-ui;
 }
-document {
+
+.document {
  background: #272525;
  max-width: 1200px;
 }
-header {
+
+.header {
   max-width: 1200px;
   height: 10em;
 }
