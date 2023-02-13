@@ -12,6 +12,9 @@ body {
 .document {
  background: #272525;
  max-width: 1200px;
+ margin: auto auto 5em;
+ min-height: 800px;
+ box-shadow: #141414 0px 3px 20px 10px;
 }
 
 .header {
