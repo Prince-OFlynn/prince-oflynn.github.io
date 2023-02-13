@@ -19,6 +19,12 @@ body {
 
 .header {
   max-width: 1200px;
-  height: 10em;
+  height: 17.5em;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
 }
           
