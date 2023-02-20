@@ -28,6 +28,16 @@ a:active {
     border-bottom: 0;
     font-size: 0.9em;
 }
+.warn {
+  background: white;
+  border: 1px white solid;
+  border-radius: 5px;
+  color: black;
+  font-family: monospace;
+  text-align: center;
+  padding: 1em;
+  margin-top: 1em;
+}
 .license {
   background: #353434;
   text-align: center;
