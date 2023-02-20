@@ -25,6 +25,7 @@ a:active {
   max-width: 1200px;
   margin: 0 auto 3em auto;
   padding: 3.33em 0;
+  font-family: monospace;
 }
 .notice {
     border-bottom: 2px solid #525151;
