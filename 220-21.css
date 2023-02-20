@@ -27,6 +27,13 @@ a:active {
   padding: 3.33em 0;
   font-family: monospace;
 }
+.dossier {
+    border: 2px solid #525151;
+    border-radius: 5px;
+    padding: 1em;
+    margin-top: 2em;
+    text-align: justify;
+}
 .notice {
     border-bottom: 2px solid #525151;
     border-top: 2px solid #525151;
@@ -41,6 +48,7 @@ a:active {
  background: #272525;
  max-width: 1200px;
  margin: auto;
+ padding-bottom: 3em;
  min-height: 800px;
  box-shadow: #141414 0px 3px 20px 10px;
 }
