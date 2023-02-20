@@ -19,6 +19,14 @@ a:hover {
 a:active {
   color: #9afcff;
 }
+.button-0 {
+    background: transparent;
+    color: crimson;
+    border-right: 2px solid crimson;
+    border-left: 2px solid crimson;
+    border-top: 0;
+    border-bottom: 0;
+}
 .license {
   background: #353434;
   text-align: center;
