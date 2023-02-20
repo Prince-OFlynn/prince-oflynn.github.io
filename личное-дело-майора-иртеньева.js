@@ -6,7 +6,7 @@ function toggleMe(a) {
 
    if(e.style.display == "none") {
       e.style.display = "block";
-      toggleIcon.innerHTML = '[ДОСТУП ПОДТВЕРЖДЕН]';
+      toggleIcon.innerHTML = '&nbsp;';
    }
    else {
       e.style.display = "none";
