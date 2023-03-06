@@ -3,6 +3,7 @@ body {
   background: #3b3b3b;
   color: white;
   margin: 0;
+  overflow-y: scroll;
   font-size: 0.9em;
 }
 .header {
