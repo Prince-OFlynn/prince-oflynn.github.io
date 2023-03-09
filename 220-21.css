@@ -149,6 +149,7 @@ h1 {
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
+  text-align: justify;
 }
 .tab-text {
   font-weight: 400;
