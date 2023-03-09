@@ -150,3 +150,8 @@ h1 {
   border: 1px solid #ccc;
   border-top: none;
 }
+.tab-text {
+  font-weight: 400;
+  font-size: medium;
+  font-variant-caps: normal;
+}
