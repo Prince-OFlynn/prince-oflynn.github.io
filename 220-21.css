@@ -167,3 +167,9 @@ h1 {
     text-align: center;
     border-radius: 10px;
   }
+.dialogue {
+    padding: 0.5em;
+    margin-bottom: 1.5em;
+    font: small-caption;
+    background: #181818;
+  }
