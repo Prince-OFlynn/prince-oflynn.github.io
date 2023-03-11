@@ -173,3 +173,10 @@ h1 {
     font: small-caption;
     background: #181818;
   }
+  .order {
+    background: #cccccc;
+    color: black;
+    padding: 1em;
+    font: small-caption;
+    margin: 1.5em 0;
+}
