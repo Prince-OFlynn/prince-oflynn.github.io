@@ -12,7 +12,8 @@ body {
 .XXX {
     max-width: 90%;
     margin: auto;
-    text-shadow: -2px -1px 1px #00ff36;
+    font-family: monospace;
+    text-shadow: -2px -1px 1px black;
     filter: drop-shadow(1px 1px 1px purple);
     font-weight: bolder;
 }
