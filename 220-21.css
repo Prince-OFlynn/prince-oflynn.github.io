@@ -184,3 +184,12 @@ h1 {
     background-size: cover;
     margin: 1.5em 0;
 }
+.caption {
+    margin: auto;
+    color: black;
+    text-align: center;
+    background: white;
+    max-width: 400px;
+    border: 1px solid white;
+    font-family: monospace;
+}
