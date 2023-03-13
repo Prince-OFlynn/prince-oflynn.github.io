@@ -170,7 +170,7 @@ h1 {
 .dialogue {
     padding: 0.5em;
     margin-bottom: 1.5em;
-    font: small-caption;
+    font-family: monospace;
     background: #181818;
   }
   .order {
