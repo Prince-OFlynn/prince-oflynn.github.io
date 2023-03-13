@@ -172,11 +172,15 @@ h1 {
     margin-bottom: 1.5em;
     font-family: monospace;
     background: #181818;
+    background-blend-mode: darken;
+    background-size: cover;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/893/584/non_2x/textured-crumpled-black-paper-background-free-photo.jpg);
   }
   .order {
-    background: #cccccc;
     color: black;
     padding: 1em;
     font-family: monospace;
+    background-image: url(https://img.freepik.com/free-photo/white-paper-texture_1194-5998.jpg?w=2000);
+    background-size: cover;
     margin: 1.5em 0;
 }
