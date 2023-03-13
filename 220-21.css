@@ -193,3 +193,10 @@ h1 {
     border: 1px solid white;
     font-family: monospace;
 }
+.back-photo {
+    background: #181818;
+    background-blend-mode: darken;
+    padding: 0.5em;
+    background-size: cover;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/893/584/non_2x/textured-crumpled-black-paper-background-free-photo.jpg);
+}
