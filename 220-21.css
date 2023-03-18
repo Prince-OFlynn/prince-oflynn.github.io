@@ -171,11 +171,13 @@ h1 {
     padding: 0.5em;
     margin-bottom: 1.5em;
     font-family: monospace;
+    text-shadow: 0px 0px 5px #000000;
     background: #181818;
     background-blend-mode: darken;
     background-size: cover;
+    text-align: left;
     background-image: url(https://static.vecteezy.com/system/resources/previews/006/893/584/non_2x/textured-crumpled-black-paper-background-free-photo.jpg);
-  }
+}
   .order {
     color: black;
     padding: 1em;
