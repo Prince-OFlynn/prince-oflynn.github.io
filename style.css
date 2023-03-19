@@ -63,3 +63,13 @@ h1 {
     font-size: 160%;
     font-weight: bolder;
 }
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
+    filter: drop-shadow(1px 1px 10px grey);
+}
