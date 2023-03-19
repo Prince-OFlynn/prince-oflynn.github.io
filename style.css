@@ -60,5 +60,6 @@ h1 {
 .hub {
     text-align: center;
     color: #00aba8;
-    font-size: 150%;
+    font-size: 160%;
+    font-weight: bolder;
 }
