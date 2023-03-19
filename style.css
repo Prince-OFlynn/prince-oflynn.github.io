@@ -74,5 +74,5 @@ a:hover {
 a:active {
     text-decoration: underline;
     filter: drop-shadow(1px 1px 10px grey);
-    color: #00aba8;
+    color: #00dbd7;
 }
