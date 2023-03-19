@@ -50,3 +50,9 @@ h1 {
     font-weight: normal;
     border-bottom: 1px solid #bbb;
 }
+.box {
+    border: solid 1px #888880;
+    border-radius: 10px;
+    margin: 10px 0 15px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .5), inset 0 1px rgba(255, 255, 255, .3), inset 0 10px rgba(255, 255, 255, .2), inset 0 10px 20px rgba(255, 255, 255, .25), inset 0 -15px 30px rgba(0, 0, 0, .1);
+}
