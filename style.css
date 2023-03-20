@@ -91,14 +91,17 @@ a:active {
 }
 
 .tab button {
-  background-color: inherit;
   background: linear-gradient(0deg, #d1d1d1, transparent);
   float: left;
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 16px;
+  padding: 0.25em 0.75em;
   transition: 0.1s;
+  margin: 0px 3px 0 0;
+  border: solid 1px #a3a3a3;
+  border-radius: 3px 3px 0 0;
+  border-bottom: 0;
 }
 
 .tab button:hover {
