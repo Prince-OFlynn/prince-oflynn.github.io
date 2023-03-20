@@ -85,7 +85,7 @@ a:active {
     display: flex;
     border-width: 0 0 5px;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     align-items: flex-end;
     justify-content: flex-start;
 }
@@ -101,6 +101,7 @@ a:active {
   border: solid 1px #a3a3a3;
   border-radius: 3px 3px 0 0;
   border-bottom: 0;
+  white-space: nowrap;
 }
 
 .tab button:hover {
