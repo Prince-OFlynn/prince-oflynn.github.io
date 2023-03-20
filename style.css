@@ -97,7 +97,6 @@ a:active {
   outline: none;
   cursor: pointer;
   padding: 0.25em 0.75em;
-  transition: 0.1s;
   margin: 0px 3px 0 0;
   border: solid 1px #a3a3a3;
   border-radius: 3px 3px 0 0;
