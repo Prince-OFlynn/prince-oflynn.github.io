@@ -6,9 +6,9 @@ body {
 }
 .text-header {
     color: white;
+    font-family: 'Bauhaus Bold BT', arial;
     font-size: 250%;
     font-variant-caps: petite-caps;
-    font-weight: 600;
     text-shadow: 3px 3px 0px #00005e;
 }
 .header-flex {
@@ -139,4 +139,11 @@ a:active {
 .apcs-header {
     width: 256px;
     padding-top: 14px;
+}
+.apcs-text-lines {
+    font-size: 15px;
+    line-height: 21px;
+    margin-top: 26px;
+    min-height: 64px;
+    max-width: none !important;
 }
