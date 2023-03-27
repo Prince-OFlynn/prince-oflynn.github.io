@@ -1,8 +1,8 @@
 body {
-  margin: 20px;
-  font-family: system-ui;
-  background-image: url(https://i.ibb.co/kKncF6p/body-bg.png);
-  background-repeat-y: no-repeat;
+    margin: 20px;
+    font-family: system-ui;
+    background: linear-gradient(180deg, #d7d7ff, white);
+    background-repeat: repeat-x;
 }
 .text-header {
     color: white;
@@ -44,7 +44,7 @@ body {
     align-items: center;
 }
 h1 {
-    color: #037603;
+    color: #0f0376;
     padding: 0 0 0.25em;
     margin: 0 0 0.6em;
     font-weight: normal;
