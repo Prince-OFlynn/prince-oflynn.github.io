@@ -1,7 +1,7 @@
 body {
     margin: 20px;
     font-family: system-ui;
-    background: linear-gradient(180deg, #d7d7ff, white);
+    background: linear-gradient(180deg, #e7e4ff, white);
     background-repeat: repeat-x;
 }
 .text-header {
@@ -9,8 +9,7 @@ body {
     font-size: 250%;
     font-variant-caps: petite-caps;
     font-weight: 600;
-    text-shadow: 0 0 20px #00ff3c;
-    filter: drop-shadow(0px 4px 2px black);
+    text-shadow: 3px 3px 0px #00005e;
 }
 .header-flex {
     display: flex;
@@ -21,9 +20,8 @@ body {
 .text-header1 {
     font-family: monospace;
     font-weight: bold;
-    color: #f0f0c0;
+    color: #0f0376;
     font-size: large;
-    text-shadow: 1px 1px 3px black;
 }
 .logo-header {
     width: 100px;
