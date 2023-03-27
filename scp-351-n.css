@@ -161,7 +161,6 @@ a:active {
 .apcs-hazards {
     display: flex;
     align-items: center;
-    margin-right: 32px;
     height: 90px;
     justify-content: center;
 }
