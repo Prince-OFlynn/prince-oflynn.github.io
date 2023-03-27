@@ -134,7 +134,7 @@ a:active {
 }
 .apcs-main-content {
     padding: 0 28px;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     display: flex;
     margin: 0;
