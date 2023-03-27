@@ -12,6 +12,7 @@ body {
     font-weight: 600;
     font-size: 250%;
     font-variant-caps: petite-caps;
+    text-align: left;
     text-shadow: 3px 3px 0px #00005e;
 }
 .header-flex {
@@ -165,8 +166,21 @@ a:active {
     justify-content: center;
 }
 .apcs-hazard {
-    width: 75px;
-    height: 75px;
+    width: 65px;
+    height: 65px;
     margin: 2px;
+    position: relative;
+}
+.apcs-class {
+    background: #4e6c77;
+    width: 100px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 64px;
+    line-height: 0;
+    flex-shrink: 0;
+    color: white;
     position: relative;
 }
