@@ -138,6 +138,7 @@ a:active {
     display: flex;
     margin: 0;
     box-sizing: border-box;
+    flex-wrap: wrap;
 }
 .apcs-header {
     width: 256px;
