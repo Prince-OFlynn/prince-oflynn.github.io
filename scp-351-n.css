@@ -156,3 +156,16 @@ a:active {
     font-size: 36px;
     line-height: 36px;
 }
+.apcs-hazards {
+    display: flex;
+    align-items: center;
+    margin-right: 32px;
+    height: 90px;
+    justify-content: center;
+}
+.apcs-hazard {
+    width: 75px;
+    height: 75px;
+    margin: 2px;
+    position: relative;
+}
