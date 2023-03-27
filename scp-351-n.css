@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap');
+
 body {
     margin: 20px;
     font-family: system-ui;
@@ -146,4 +148,10 @@ a:active {
     margin-top: 26px;
     min-height: 64px;
     max-width: none !important;
+    font-family: monospace;
+}
+.apcs-txt {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    line-height: 36px;
 }
