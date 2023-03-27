@@ -128,3 +128,15 @@ a:active {
     font-family: Oswald, sans-serif;
     position: relative;
 }
+.apcs-main-content {
+    padding: 0 28px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin: 0;
+    box-sizing: border-box;
+}
+.apcs-header {
+    width: 256px;
+    padding-top: 14px;
+}
