@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@300&display=swap');
 
 body {
     margin: 20px;
@@ -148,10 +149,10 @@ a:active {
     margin-top: 26px;
     min-height: 64px;
     max-width: none !important;
-    font-family: monospace;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 .apcs-txt {
     font-family: 'Barlow Condensed', sans-serif;
-    font-size: 30px;
+    font-size: 36px;
     line-height: 36px;
 }
