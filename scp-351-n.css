@@ -6,7 +6,7 @@ body {
 }
 .text-header {
     color: white;
-    font-family: 'Bauhaus Bold BT', arial;
+    font-weight: 600;
     font-size: 250%;
     font-variant-caps: petite-caps;
     text-shadow: 3px 3px 0px #00005e;
