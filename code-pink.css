@@ -122,3 +122,19 @@ a:active {
     background-color: #f5f5f5;
     border-top: none;
 }
+.pink {
+    color: white;
+    background: magenta;
+    font-weight: bolder;
+    padding: 0.2em 1em;
+    margin: 0em 1em 0 0;
+    border: 1px solid black;
+}
+.code {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
