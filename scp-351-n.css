@@ -202,6 +202,7 @@ a:active {
     pointer-events: none;
     max-width: 100%;
     white-space: nowrap;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 .apcs-info-activation {
     width: 110px;
