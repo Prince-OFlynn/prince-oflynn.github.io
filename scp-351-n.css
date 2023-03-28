@@ -6,6 +6,7 @@ body {
     font-family: system-ui;
     background: linear-gradient(180deg, #e7e4ff, white);
     background-repeat: repeat-x;
+    overflow-y: scroll;
 }
 .text-header {
     color: white;
