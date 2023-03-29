@@ -65,16 +65,16 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: #00aba8;
+    color: crimson;
 }
 a:hover {
     text-decoration: underline;
-    color: #00aba8;
+    color: crimson;
 }
 a:active {
     text-decoration: underline;
     filter: drop-shadow(1px 1px 10px grey);
-    color: #007a78;
+    color: #a5001f;
 }
 
 .tab {
