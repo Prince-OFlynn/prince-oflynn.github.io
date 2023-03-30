@@ -211,15 +211,15 @@ a:active {
     background: var(--apcs-info-bg-color);
     color: var(--apcs-info-fg-color);
     clip-path: polygon(30px 0, 100% 0, 100% 100%, 0 100%);
-    font-size: 18px;
+    font-size: 90%;
     line-height: 18px;
     pointer-events: none;
     max-width: 100%;
     white-space: nowrap;
-    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-family: monospace;
 }
 .apcs-info-activation {
-    width: 110px;
+    width: 75px;
     padding: 0 30px;
     display: flex;
     align-items: center;
@@ -233,7 +233,7 @@ a:active {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 110px;
+    width: 50px;
     position: relative;
     color: black;
     background: #ffc000;
