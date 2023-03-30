@@ -177,6 +177,7 @@ a:active {
     display: flex;
     align-items: center;
     height: 90px;
+    margin: auto;
     justify-content: center;
 }
 .apcs-hazard {
