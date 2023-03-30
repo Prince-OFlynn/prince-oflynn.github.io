@@ -156,7 +156,8 @@ a:active {
     flex-wrap: wrap;
 }
 .apcs-header {
-    width: 256px;
+    width: 206px;
+    margin-right: 50px;
     padding-top: 14px;
 }
 .apcs-text-lines {
