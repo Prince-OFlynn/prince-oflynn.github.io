@@ -190,7 +190,7 @@ a:active {
     position: relative;
 }
 .apcs-class {
-    background: magenta;
+    background: #FF1493;
     width: 100px;
     height: 90px;
     display: flex;
