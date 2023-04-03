@@ -283,20 +283,20 @@ a:active {
     font-style: italic;
 }
 .button-0 {
-    color: crimson;
-    background: transparent;
-    border: none;
+    color: white;
+    background: crimson;
     font-size: 0.96em;
-    padding: 0;
     line-height: 1em;
+    padding: 5px;
     font-weight: bold;
+    border: #99021e solid 2px;
 }
 .button-0:hover {
     color: crimson;
     background: transparent;
-    border: none;
     font-size: 0.96em;
-    padding: 0;
+    border: #99021e solid 2px;
+    padding: 5px;
     line-height: 1em;
     font-weight: bold;
     text-decoration: underline;
