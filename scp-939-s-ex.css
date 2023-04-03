@@ -291,7 +291,7 @@ a:active {
     line-height: 1em;
     font-weight: bold;
 }
-.button-0 :hover {
+.button-0:hover {
     color: crimson;
     background: transparent;
     border: none;
