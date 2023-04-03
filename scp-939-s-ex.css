@@ -282,3 +282,23 @@ a:active {
     margin: 1em 0em;
     font-style: italic;
 }
+.button-0 {
+    color: crimson;
+    background: transparent;
+    border: none;
+    font-size: 0.96em;
+    padding: 0;
+    line-height: 1em;
+    font-weight: bold;
+}
+.button-0 :hover {
+    color: crimson;
+    background: transparent;
+    border: none;
+    font-size: 0.96em;
+    padding: 0;
+    line-height: 1em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
