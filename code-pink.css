@@ -171,3 +171,8 @@ a:active {
     justify-content: flex-start;
     align-items: flex-start;
 }
+.avatar {
+    width: 200px;
+    margin: 0em 1em 1em 0em;
+    max-width: 8em;
+}
