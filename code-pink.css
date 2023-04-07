@@ -137,3 +137,22 @@ a:active {
     justify-content: flex-start;
     align-items: center;
 }
+.button-0 {
+    border: crimson 2px solid;
+    background: transparent;
+    padding: 5px;
+    font-weight: bolder;
+}
+.button-0:active {
+    border: black 2px solid;
+    background: lightgrey;
+    padding: 5px;
+    font-weight: bolder;
+}
+.button-0:hover {
+    border: crimson 2px solid;
+    background: transparent;
+    padding: 5px;
+    font-weight: bolder;
+    color: crimson;
+}
