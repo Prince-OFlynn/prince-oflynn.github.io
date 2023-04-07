@@ -3,6 +3,7 @@ body {
     font-family: system-ui;
     background-image: url(https://files.scpfoundation.net/local--files/theme:classic/classic_body_bg.png);
     background-repeat-y: no-repeat;
+    overflow-y: scroll;
 }
 .text-header {
     color: white;
