@@ -163,3 +163,11 @@ a:active {
     font-size: 90%;
     margin: 1.5em 0;
 }
+.special-thanks {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
