@@ -174,5 +174,8 @@ a:active {
 .avatar {
     width: 200px;
     margin: 0em 1em 1em 0em;
-    max-width: 8em;
+    max-width: 5em;
+}
+.special-thanks h4 {
+    margin: 0;
 }
