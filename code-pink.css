@@ -158,7 +158,7 @@ a:active {
     color: crimson;
 }
 .thanks {
-    background: aliceblue;
+    background: whitesmoke;
     padding: 0.3em 1em;
     font-size: 90%;
     margin: 1.5em 0;
@@ -178,4 +178,10 @@ a:active {
 }
 .special-thanks h4 {
     margin: 0;
+}
+.cool {
+    background: linear-gradient(0deg, whitesmoke, transparent);
+    padding: 0.4em;
+    width: fit-content;
+    height: fit-content;
 }
