@@ -185,3 +185,8 @@ a:active {
     width: fit-content;
     height: fit-content;
 }
+.document {
+    border: 1px dashed #999;
+    padding: 0 1em;
+    background-color: #f4f4f4;
+}
