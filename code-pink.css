@@ -190,3 +190,14 @@ a:active {
     padding: 0 1em;
     background-color: #f4f4f4;
 }
+.story-center {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.thanks a {
+    font-weight: bolder;
+}
