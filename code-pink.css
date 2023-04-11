@@ -1,9 +1,10 @@
 body {
     margin: 20px;
     font-family: system-ui;
-    background-image: url(https://files.scpfoundation.net/local--files/theme:classic/classic_body_bg.png);
+    background: url(https://files.scpfoundation.net/local--files/theme:classic/classic_body_bg.png) repeat-x;
     background-repeat-y: no-repeat;
     overflow-y: scroll;
+    background-position: top;
 }
 .text-header {
     color: white;
