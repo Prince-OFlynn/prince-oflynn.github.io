@@ -202,3 +202,11 @@ a:active {
 .thanks a {
     font-weight: bolder;
 }
+
+thanks p {
+    display: block;
+    margin-block-start: 0.49em;
+    margin-block-end: 0.49em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
