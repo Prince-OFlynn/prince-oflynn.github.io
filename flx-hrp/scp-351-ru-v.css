@@ -11,10 +11,10 @@ body {
 .text-header {
     color: white;
     font-weight: 600;
-    font-size: 250%;
+    font-size: 160%;
     font-variant-caps: petite-caps;
     text-align: left;
-    text-shadow: 3px 3px 0px #00005e;
+    text-shadow: 2px 2px 1px #00005e;
 }
 .header-flex {
     display: flex;
