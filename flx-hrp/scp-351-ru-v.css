@@ -8,6 +8,10 @@ body {
     background-repeat: repeat-x;
     overflow-y: scroll;
 }
+::selection {
+    background: darkblue;
+    color: white !important;
+}
 .text-header {
     color: white;
     font-weight: 600;
