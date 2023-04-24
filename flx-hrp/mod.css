@@ -7,6 +7,11 @@ body {
     background: darkblue;
     color: white !important;
 }
+h1 {
+    border-bottom: 2px solid;
+    font-family: initial;
+    font-weight: 100;
+}
 .header {
     height: max-content;
     background: url(https://upload.wikimedia.org/wikipedia/commons/4/4d/Woodland_EMR_camo_of_the_Russian_Armed_Forces.png);
