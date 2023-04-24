@@ -13,6 +13,36 @@ body {
 .sub-head {
     max-width: 1200px;
     margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.text-holder-1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+.text-1 {
+    font-family: initial;
+    color: gold;
+    text-shadow: 1px 1px 1px #957d00;
+    font-size: 140%;
+    filter: drop-shadow(2px 2px 1px grey);
+}
+.text-2 {
+    font-family: initial;
+    color: silver;
+    text-shadow: 1px 1px 1px #363636;
+}
+.text-holder-2 
+.text-3 {
+    font-size: 130%;
+    font-family: initial;
+    color: silver;
+    text-shadow: 2px 2px 1px black;
 }
 .head-logo {
     width: 150px;
