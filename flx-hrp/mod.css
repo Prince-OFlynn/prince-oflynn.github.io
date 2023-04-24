@@ -46,12 +46,12 @@ h1 {
     color: gold;
     text-shadow: 1px 1px 1px #957d00;
     font-size: 140%;
-    filter: drop-shadow(2px 2px 1px grey);
+    filter: drop-shadow(2px 2px 3px black);
 }
 .text-2 {
     font-family: initial;
     color: silver;
-    text-shadow: 1px 1px 1px #363636;
+    text-shadow: 2px 2px 3px black;
 }
 .text-holder-2 {
     display: flex;
