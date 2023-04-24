@@ -8,3 +8,11 @@ body {
     background: darkblue;
     color: white !important;
 }
+
+.sub-head {
+    max-width: 1200px;
+    margin: auto;
+}
+.head-logo {
+    width: 150px;
+}
