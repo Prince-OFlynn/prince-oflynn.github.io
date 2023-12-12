@@ -1,14 +1,17 @@
 body {
   margin: 20px;
   font-family: system-ui;
-  background-color: linear-gradient(180deg, transparent 0%, #ffffff 100%);
   background-image: url(https://i.ibb.co/MD1MCzg/menuwhite.jpg);
+}
+.body {
+    background-color: linear-gradient(180deg, transparent 0%, #ffffff 40%);
 }
 main {
     max-width: 900px;
     color: black;
     background: white;
     margin: 2em auto;
+    padding: 2em 1em;
 }
 .text-header {
     color: white;
