@@ -4,14 +4,14 @@ body {
   background-image: url(https://i.ibb.co/MD1MCzg/menuwhite.jpg);
 }
 .body {
-    background-color: linear-gradient(180deg, transparent 0%, #ffffff 40%);
+    background-color: linear-gradient(180deg, transparent 0%, #ffffff 15%);
 }
 main {
     max-width: 900px;
     color: black;
     background: white;
     margin: 2em auto;
-    padding: 2em 1em;
+    padding: 1em;
 }
 .text-header {
     color: white;
