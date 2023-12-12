@@ -69,6 +69,10 @@ h2 {
     font-family: revert;
     font-weight: 500;
 }
+.s {
+    font-size: x-large;
+    text-align: center;
+}
 .box {
     border: solid 1px #888880;
     border-radius: 10px;
