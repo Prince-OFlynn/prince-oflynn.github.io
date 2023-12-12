@@ -58,6 +58,12 @@ h2 {
     font-weight: bold;
     color: orangered;
 }
+.h {
+    text-align: center;
+    font-size: big;
+    font-style: italic;
+    margin-bottom: 1em;
+}
 .box {
     border: solid 1px #888880;
     border-radius: 10px;
@@ -132,5 +138,5 @@ a:active {
 }
 .map {
     float: right;
-    width: 200px
+    width: 300px
 }
