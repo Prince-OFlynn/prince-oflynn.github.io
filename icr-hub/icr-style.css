@@ -1,10 +1,16 @@
 body {
-  margin: 20px;
+  margin: 0px;
   font-family: system-ui;
   background-image: url(https://i.ibb.co/MD1MCzg/menuwhite.jpg);
 }
 .body {
-    background-color: linear-gradient(180deg, transparent 0%, #ffffff 15%);
+    background: linear-gradient(180deg, transparent 0%, #ffffff 20%);
+    position: fixed;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    top: 0;
+    display: block;
+    z-index: -5;
 }
 main {
     max-width: 900px;
