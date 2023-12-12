@@ -64,6 +64,11 @@ h2 {
     font-style: italic;
     margin-bottom: 1em;
 }
+.b {
+    font-size: x-large;
+    font-family: revert;
+    font-weight: 500;
+}
 .box {
     border: solid 1px #888880;
     border-radius: 10px;
