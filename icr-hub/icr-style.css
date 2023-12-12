@@ -23,7 +23,7 @@ main {
 }
 header {
     max-width: 800px;
-    margin: 1em auto;
+    margin: 2em auto 1em auto;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
