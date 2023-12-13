@@ -147,5 +147,11 @@ a:active {
 }
 .map {
     float: right;
-    width: 300px
+    width: 40%;
+}
+.scp-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
 }
