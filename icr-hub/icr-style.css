@@ -156,17 +156,6 @@ a:active {
     text-align: center;
     padding-bottom: 3px;
 }
-.scp-flex {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-.scp-flex2 {
-    min-width: 50%;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
 @media screen and (min-width: 0px) and (max-width: 570px) {
     .map {
     float: none;
