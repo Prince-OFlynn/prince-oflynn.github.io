@@ -148,6 +148,11 @@ a:active {
 .map {
     float: right;
     width: 40%;
+    border: 1px solid;
+    background: lightgrey;
+    color: black;
+    font-family: monospace;
+    text-align: center;
 }
 .scp-flex {
     display: flex;
