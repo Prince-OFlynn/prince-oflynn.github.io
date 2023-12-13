@@ -60,7 +60,7 @@ h2 {
 }
 .h {
     text-align: center;
-    font-size: big;
+    font-size: large;
     font-style: italic;
     margin-bottom: 1em;
 }
@@ -88,16 +88,16 @@ h2 {
 }
 a {
     text-decoration: none;
-    color: #00aba8;
+    color: orange;
 }
 a:hover {
     text-decoration: underline;
-    color: #00aba8;
+    color: orange;
 }
 a:active {
     text-decoration: underline;
-    filter: drop-shadow(1px 1px 10px grey);
-    color: #007a78;
+    filter: drop-shadow(1px 1px 1px grey);
+    color: orangered;
 }
 
 .tab {
