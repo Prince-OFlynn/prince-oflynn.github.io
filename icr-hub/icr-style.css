@@ -153,10 +153,19 @@ a:active {
     color: black;
     font-family: monospace;
     text-align: center;
+    padding-bottom: 3px;
 }
 .scp-flex {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-evenly;
+}
+
+@media screen and (min-width: 0px) and (max-width: 570px) and (orientation: portrait) {
+    .map {
+    float: none;
+    width: 95%;
+    margin: auto;
+    }
 }
