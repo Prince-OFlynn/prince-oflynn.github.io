@@ -16,7 +16,7 @@ body {
 }
 main {
     max-width: 900px;
-    color: black;
+    color: #333;
     background: white;
     margin: 2em auto;
     padding: 1em;
