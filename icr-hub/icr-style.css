@@ -168,4 +168,13 @@ a:active {
     width: 95%;
     margin: auto;
     }
+    .logo {
+    width: 100px;
+    }
+    header {
+    justify-content: center;
+    }
+    .text-holder {
+    margin: 0;
+    }
 }
