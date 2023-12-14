@@ -167,10 +167,19 @@ a:active {
     text-align: center;
     padding-bottom: 3px;
 }
+.imagee {
+    float: right;
+    width: 25%;
+}
 @media screen and (min-width: 0px) and (max-width: 570px) {
     .map {
     float: none;
     width: 95%;
+    margin: auto;
+    }
+    .imagee {
+    float: none;
+    width: 100%;
     margin: auto;
     }
     .logo {
