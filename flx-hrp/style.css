@@ -2,7 +2,7 @@ body {
   margin: 20px;
   font-family: system-ui;
   background-image: url(https://i.ibb.co/bH8dsnM/body-bg.png);
-  background-repeat-y: no-repeat;
+  background-repeat: repeat no-repeat;
 }
 ::selection {
     background: darkblue;
