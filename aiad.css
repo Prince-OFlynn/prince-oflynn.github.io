@@ -6,7 +6,6 @@ body {
 	color: black;
 	background-color: white;
 	margin: 0;
-	padding: 1em;
 	background-repeat: repeat-x;
 }
 main {
@@ -30,7 +29,7 @@ h1 {
 }
 .header {
     max-width: 800px;
-    height: 160px;
+    height: 161px;
     margin: auto;
     text-align: center;
     display: flex;
