@@ -1,3 +1,6 @@
+@import(https://fonts.gstatic.com/s/russoone/v16/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2)
+@import(https://fonts.gstatic.com/s/ruda/v28/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJFsh_90qmiGg.woff2)
+
 body {
 	background-image: url(https://files.scpfoundation.net/local--files/theme:technoblast/bg.png);
 	color: black;
@@ -19,4 +22,19 @@ body {
     align-content: center;
     justify-content: center;
     align-items: center;
+}
+.text-header {
+	color: cyan;
+    font-family: 'Russo One', sans-serif;
+    font-weight: normal;
+    font-size: 160%;
+    text-shadow: 0px 0px 0px #000;
+}
+.text-header1 {
+	font-family: 'Ruda', sans-serif;
+    font-weight: normal;
+    color: #ff9944;
+    text-shadow: 0px 0px 0px #000;
+    white-space: pre;
+    text-align: left;
 }
