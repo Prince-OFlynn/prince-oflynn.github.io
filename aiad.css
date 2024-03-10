@@ -16,7 +16,6 @@ main {
     background-repeat: repeat;
     display: block;
     position: absolute;
-    height: 100%;
     width: -webkit-fill-available;
 }
 article {
